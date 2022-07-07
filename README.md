@@ -63,6 +63,6 @@ class VaultDoor1 {
     }
 }
 ```
-I manually rearrange the characters and got `d35cr4mbl3_tH3_cH4r4cT3r5_75092e`.
+I manually rearranged the characters and got `d35cr4mbl3_tH3_cH4r4cT3r5_75092e`.
 ## Flag
 picoCTF{d35cr4mbl3_tH3_cH4r4cT3r5_75092e}
